@@ -1,0 +1,79 @@
+[
+  {
+    "id": "1",
+    "name": "Sarah Mitchell",
+    "specialization": "Dyslexia Support",
+    "location": "San Francisco, CA",
+    "rating": 4.8,
+    "shortDescription": "Specialized dyslexia therapist with 10+ years experience helping children and adults overcome reading challenges.",
+    "longDescription": "Sarah Mitchell is a certified dyslexia therapist with over 10 years of experience in helping both children and adults overcome reading challenges. She uses evidence-based interventions including the Orton-Gillingham approach and multisensory learning techniques. Sarah has worked with hundreds of students, helping them develop confidence and achieve academic success. She holds certifications from the International Dyslexia Association and continues to stay updated with the latest research in dyslexia intervention.",
+    "contactEmail": "sarah.mitchell@learningsupport.com",
+    "phoneNumber": "(415) 555-0123"
+  },
+  {
+    "id": "2",
+    "name": "Dr. Michael Chen",
+    "specialization": "ADHD Coaching",
+    "location": "New York, NY",
+    "rating": 4.9,
+    "shortDescription": "Licensed psychologist specializing in ADHD coaching for students and professionals.",
+    "longDescription": "Dr. Michael Chen is a licensed clinical psychologist with expertise in ADHD coaching and behavioral interventions. He works with children, adolescents, and adults to develop executive functioning skills, time management strategies, and coping mechanisms. Dr. Chen uses cognitive-behavioral therapy techniques combined with practical coaching strategies to help his clients thrive in academic and professional settings. He has published research on ADHD interventions and regularly speaks at educational conferences.",
+    "contactEmail": "dr.chen@mindfullearning.com",
+    "phoneNumber": "(212) 555-0456"
+  },
+  {
+    "id": "3",
+    "name": "Lisa Rodriguez",
+    "specialization": "Autism Spectrum Support",
+    "location": "Austin, TX",
+    "rating": 4.7,
+    "shortDescription": "Behavioral analyst supporting individuals with autism spectrum disorders in educational settings.",
+    "longDescription": "Lisa Rodriguez is a Board Certified Behavior Analyst (BCBA) specializing in supporting individuals with autism spectrum disorders. She develops individualized behavior intervention plans and works closely with families and schools to create supportive learning environments. Lisa has extensive experience in Applied Behavior Analysis (ABA) and uses positive reinforcement strategies to help her clients develop communication, social, and academic skills. She is passionate about advocacy and ensuring that individuals with autism have access to quality education and support services.",
+    "contactEmail": "lisa.rodriguez@spectrumlearning.org",
+    "phoneNumber": "(512) 555-0789"
+  },
+  {
+    "id": "4",
+    "name": "James Thompson",
+    "specialization": "Learning Disabilities Support",
+    "location": "Chicago, IL",
+    "rating": 4.6,
+    "shortDescription": "Special education consultant helping students with various learning disabilities achieve academic success.",
+    "longDescription": "James Thompson is a special education consultant with 15 years of experience working with students who have various learning disabilities. He specializes in creating individualized education programs (IEPs) and developing accommodations that help students succeed in mainstream classrooms. James works collaboratively with teachers, parents, and students to identify learning challenges and implement effective interventions. His expertise includes working with students with dyscalculia, dysgraphia, and processing disorders. He is known for his patient, encouraging approach and his ability to help students build confidence in their abilities.",
+    "contactEmail": "james.thompson@inclusivelearning.edu",
+    "phoneNumber": "(773) 555-0234"
+  },
+  {
+    "id": "5",
+    "name": "Dr. Amanda Foster",
+    "specialization": "Speech and Language Therapy",
+    "location": "Seattle, WA",
+    "rating": 4.9,
+    "shortDescription": "Licensed speech-language pathologist specializing in communication disorders and language development.",
+    "longDescription": "Dr. Amanda Foster is a licensed speech-language pathologist with expertise in diagnosing and treating communication disorders. She works with children and adults who have speech sound disorders, language delays, stuttering, and voice disorders. Dr. Foster uses innovative therapy techniques including technology-assisted interventions and play-based therapy for younger clients. She has a particular interest in working with bilingual individuals and understanding how language development occurs in multilingual environments. Dr. Foster regularly collaborates with educators to ensure that communication goals are integrated into academic settings.",
+    "contactEmail": "dr.foster@communicationtherapy.com",
+    "phoneNumber": "(206) 555-0567"
+  },
+  {
+    "id": "6",
+    "name": "Robert Kim",
+    "specialization": "Math Learning Support",
+    "location": "Los Angeles, CA",
+    "rating": 4.5,
+    "shortDescription": "Mathematics education specialist helping students overcome math anxiety and dyscalculia.",
+    "longDescription": "Robert Kim is a mathematics education specialist with a focus on helping students who struggle with math concepts, including those with dyscalculia and math anxiety. He uses visual and hands-on teaching methods to make mathematical concepts more accessible and engaging. Robert has developed innovative curricula that break down complex mathematical ideas into manageable steps. He works with students from elementary through high school levels and has helped hundreds of students develop confidence in mathematics. His approach emphasizes understanding over memorization and helps students see the practical applications of mathematical concepts.",
+    "contactEmail": "robert.kim@mathsupport.net",
+    "phoneNumber": "(323) 555-0890"
+  },
+  {
+    "id": "7",
+    "name": "Maria Gonzalez",
+    "specialization": "Executive Function Coaching",
+    "location": "Miami, FL",
+    "rating": 4.8,
+    "shortDescription": "Executive function coach helping students develop organization, planning, and time management skills.",
+    "longDescription": "Maria Gonzalez is an executive function coach who specializes in helping students develop essential life skills including organization, planning, time management, and self-regulation. She works with students who have ADHD, autism, and other learning differences that impact executive functioning. Maria uses practical, hands-on strategies to help students develop systems that work for their individual learning styles. She collaborates closely with families and schools to ensure that strategies are implemented consistently across all environments. Her coaching approach is strength-based and focuses on building student independence and self-advocacy skills.",
+    "contactEmail": "maria.gonzalez@executivecoaching.com",
+    "phoneNumber": "(305) 555-0345"
+  }
+]

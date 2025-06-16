@@ -1,0 +1,76 @@
+/* Import Bootstrap Icons */
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.0/font/bootstrap-icons.css");
+
+.App {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+}
+
+/* Custom styles for provider cards */
+.provider-card {
+  border-radius: 15px !important;
+  transition: all 0.3s ease;
+}
+
+.provider-card:hover {
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1) !important;
+}
+
+/* Loading spinner customization */
+.spinner-border {
+  width: 3rem;
+  height: 3rem;
+}
+
+/* Star rating styling */
+.bi-star, .bi-star-fill, .bi-star-half {
+  font-size: 0.9rem;
+}
+
+/* Badge styling */
+.badge {
+  font-size: 0.75rem;
+  font-weight: 500;
+  border-radius: 20px;
+}
+
+/* Button styling */
+.btn {
+  border-radius: 8px;
+  font-weight: 500;
+  transition: all 0.2s ease;
+}
+
+.btn:hover {
+  transform: translateY(-1px);
+}
+
+/* Card enhancements */
+.card {
+  border-radius: 15px;
+  overflow: hidden;
+}
+
+/* Responsive typography */
+@media (max-width: 768px) {
+  .display-4 {
+    font-size: 2rem;
+  }
+  
+  .lead {
+    font-size: 1rem;
+  }
+}
+
+/* Input focus styling */
+.form-control:focus {
+  border-color: #0d6efd;
+  box-shadow: 0 0 0 0.2rem rgba(13, 110, 253, 0.25);
+}
+
+/* Contact section styling */
+.contact-info {
+  background: rgba(13, 110, 253, 0.05);
+  border-radius: 10px;
+  padding: 1rem;
+}
